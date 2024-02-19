@@ -28,7 +28,7 @@ Hi There! I'm a frontend developer.
 <br>
 <hr>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kanagyi95)](https://solved.ac/kanagyi95) <br>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kanagyi95)](https://solved.ac/kanagyi95)
 [![minzzikang's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzzikang)](https://github.com/minzzikang/github-readme-stats)
 <br>
 
