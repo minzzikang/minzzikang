@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=Minji&height=200&fontSize=90&fontColor=ffffff)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=Hello,minji&height=200&fontSize=90&fontColor=ffffff)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&pause=1000&color=000000&random=false&width=435&lines=%EB%8F%84%EC%A0%84%ED%95%98%EB%8A%94+%EA%B2%83%EC%9D%84+%EB%91%90%EB%A0%A4%EC%9B%8C%ED%95%98%EC%A7%80+%EC%95%8A%EB%8A%94+%EA%B0%95%EB%AF%BC%EC%A7%80%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
