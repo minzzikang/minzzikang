@@ -16,6 +16,7 @@
 
 #### :hammer: Tech Stack :hammer:
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <br>
@@ -45,4 +46,3 @@
 
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=b897ff&height=40&section=footer&text=&fontSize=0" width="100%"/>
